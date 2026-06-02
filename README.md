@@ -48,7 +48,7 @@ endmodule
 
 ### Output Waveform
 
-![D Flip-Flop Waveform](screenshots/dff_waveform.png)
+![D Flip-Flop Waveform](ScreenShots/Dflip_flop_wf.jpeg)
 
 ---
 
@@ -91,7 +91,7 @@ endmodule
 
 ### Output Waveform
 
-![JK Flip-Flop Waveform](screenshots/jkff_waveform.png)
+![JK Flip-Flop Waveform](ScreenShots/JKflip_flop_wf.jpeg)
 
 ---
 
@@ -125,7 +125,7 @@ endmodule
 
 ### Output Waveform
 
-![Register Waveform](screenshots/register_waveform.png)
+![Register Waveform](ScreenShots/Register_wf.jpeg)
 
 ---
 
@@ -172,7 +172,7 @@ endmodule
 ![Counter Waveform](ScreenShots/counter_wf.jpeg)
 
 ---
-![D Flip-Flop Waveform](ScreenShots/Dflip_flop_wf.jpeg)
+
 # Testbench Verification
 
 Each sequential circuit was verified using a dedicated Verilog testbench. Clock signals and input patterns were generated to validate circuit functionality.
@@ -243,6 +243,3 @@ This project provided hands-on experience in designing and simulating sequential
 
 ## Author
 Aparna Marisetty
-**Aparna Marisetty**
-
-VLSI Design Internship – Task 3
